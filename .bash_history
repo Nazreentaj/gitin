@@ -64,3 +64,9 @@ git commit -m "second"
 clear
 gid add .
 git add .
+clear
+git add .
+git commit -m "second"
+ls
+touch fileC.txt
+ls
